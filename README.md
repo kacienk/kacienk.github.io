@@ -7,7 +7,7 @@
 1.[Chess engine](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/mknl)
 
 ## My sample code
-```markdown
+```python
       def fen_update(self, rank, file, target_rank, target_file):
         piece = str(self.chess_board[rank][file])
         added_current = False
