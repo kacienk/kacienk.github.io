@@ -1,5 +1,6 @@
 ## Education
 2018 - 2021 The August Witkowski 5th High School in Cracow
+
 2021 - AGH University
 
 ## Projects I currently work on
