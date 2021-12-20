@@ -11,7 +11,7 @@ Nasz projekt polegał na stworzeniu od zera w pełni funkcjonalnego silnika szac
 ![Image of a console](Console1.png)
 
 Pozostali autorzy:
-1. [Miłosz Dubiel](https://github.com/dubielel/dubielel.github.io)
+1. [Miłosz Dubiel](https://dubielel.github.io)
 2. [Łukasz Łabuz](https://github.com/luklabuz/luklabuz.github.io)
 3. [Natalia Niedziałek](https://github.com/natiniedzialek/natiniedzialek.github.io)
 4. [Mateusz Piękoś](https://github.com/matpiekos/matpiekos.github.io)
