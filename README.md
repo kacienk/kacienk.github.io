@@ -15,7 +15,7 @@ Pozostali autorzy:
 2. [Łukasz Łabuz](https://github.com/luklabuz/luklabuz.github.io)
 3. [Natalia Niedziałek](https://github.com/natiniedzialek/natiniedzialek.github.io)
 4. [Mateusz Piękoś](https://github.com/matpiekos/matpiekos.github.io)
-5. [Krzysztof Wójcik](https://github.com/hoshiharahikari/hoshiharahikari.github.io)
+5. [Krzysztof Wójcik](https://hoshiharahikari.github.io)
 
 ## My sample code
 ```python
