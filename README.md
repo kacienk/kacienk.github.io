@@ -12,9 +12,9 @@ Nasz projekt polegał na stworzeniu od zera w pełni funkcjonalnego silnika szac
 
 Pozostali autorzy:
 1. [Miłosz Dubiel](https://dubielel.github.io)
-2. [Łukasz Łabuz](https://github.com/luklabuz/luklabuz.github.io)
-3. [Natalia Niedziałek](https://github.com/natiniedzialek/natiniedzialek.github.io)
-4. [Mateusz Piękoś](https://github.com/matpiekos/matpiekos.github.io)
+2. [Łukasz Łabuz](https://luklabuz.github.io)
+3. [Natalia Niedziałek](https://natiniedzialek.github.io)
+4. [Mateusz Piękoś](https://matpiekos.github.io)
 5. [Krzysztof Wójcik](https://hoshiharahikari.github.io)
 
 ## My sample code
