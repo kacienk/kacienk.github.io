@@ -1,7 +1,7 @@
 ## Education
-2018 - 2021 The August Witkowski 5th High School in Cracow
+2021 - Present AGH UST
 
-2021 - AGH University
+2018 - 2021 The August Witkowski 5th High School in Cracow
 
 ## Projects I currently work on
 1.[Chess engine](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/mknl)
