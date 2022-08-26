@@ -31,7 +31,7 @@ Pozostali autorzy:
 
         help_fen = list_fen[:(i + 1)]
 
-        if left_space != 0:
+        if left_space:
             help_fen[i] = str(left_space)
             help_fen.append(piece)
         else:
